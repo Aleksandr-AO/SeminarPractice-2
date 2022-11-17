@@ -18,7 +18,7 @@ void TwoNum(int num)
     TwoNum (number);
 
 Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает,
- что третьей цифры нет.
+ что третьей цифры нет.*/
     
 void ThirdDigit(int number)
 {
@@ -40,5 +40,5 @@ void ThirdDigit(int number)
 Console.Write("Введите число ");
 int num = Convert.ToInt32(Console.ReadLine());
 ThirdDigit (num);
-*/
+
 
